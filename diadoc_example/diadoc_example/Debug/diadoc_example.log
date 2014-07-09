@@ -1,0 +1,19 @@
+﻿Построение начато 09.07.2014 16:14:19.
+     1>Проект "c:\Users\Yury\documents\visual studio 2012\Projects\diadoc_example\diadoc_example\diadoc_example.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\diadoc_example.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\diadoc_example.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt diadoc_example.cpp
+         diadoc_example.cpp
+     1>c:\users\yury\documents\visual studio 2012\projects\diadoc_example\diadoc_example\diadoc_example.cpp(125): warning C4715: authorization: значение возвращается не при всех путях выполнения
+     1>c:\users\yury\documents\visual studio 2012\projects\diadoc_example\diadoc_example\diadoc_example.cpp(105): warning C4715: get_organisation: значение возвращается не при всех путях выполнения
+     1>c:\users\yury\documents\visual studio 2012\projects\diadoc_example\diadoc_example\diadoc_example.cpp(82): warning C4715: send_message: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\yury\documents\visual studio 2012\Projects\diadoc_example\Debug\diadoc_example.exe" /INCREMENTAL /NOLOGO "c:\Program Files\Microsoft Visual Studio 11.0\VC\include\curllib.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\yury\documents\visual studio 2012\Projects\diadoc_example\Debug\diadoc_example.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\yury\documents\visual studio 2012\Projects\diadoc_example\Debug\diadoc_example.lib" /MACHINE:X86 Debug\diadoc_example.obj
+         Debug\stdafx.obj
+         diadoc_example.vcxproj -> c:\users\yury\documents\visual studio 2012\Projects\diadoc_example\Debug\diadoc_example.exe
+     1>Построение проекта "c:\Users\Yury\documents\visual studio 2012\Projects\diadoc_example\diadoc_example\diadoc_example.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.36
